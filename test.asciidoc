@@ -12,3 +12,5 @@ This page will contain component overviews.
 ### Steps
 . hello
 . world 
+
+include::../Includes/example_downstream_includes.asciidoc[tag=restart_pod]
