@@ -4,6 +4,7 @@ title: Components
 permalink: /components/
 layout: default
 ---
+// tag::restart_pod[]
 
 ## Component Overviews
 
@@ -13,4 +14,4 @@ This page will contain component overviews.
 . hello
 . world 
 
-include::../Includes/example_downstream_includes.asciidoc[tag=restart_pod]
+// end::restart_pod[]
